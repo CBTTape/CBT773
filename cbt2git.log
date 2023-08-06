@@ -1,0 +1,10 @@
+2023-08-06 07:00:09.873807 - Initialized conversion of CBT773
+2023-08-06 07:00:10.968839 - Received CBT.V505.FILE773.PDS from FILE773.XMI 
+2023-08-06 07:00:10.971573 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE773.PDS, moved to PDS/$$$#DATE
+2023-08-06 07:00:10.972552 - Found ##README.txt (text/plain) in CBT.V505.FILE773.PDS, moved to PDS/##README
+2023-08-06 07:00:10.973490 - Found @FILE773.txt (text/plain) in CBT.V505.FILE773.PDS, moved to PDS/@FILE773
+2023-08-06 07:00:10.974471 - Found ISDA.rexx (text/plain) in CBT.V505.FILE773.PDS, moved to PDS/ISDA
+2023-08-06 07:00:10.976297 - De-xmi-ed ISDADOC to CBT773/docs/ISDADOC.doc
+2023-08-06 07:00:10.983453 - Found ISDARTF.rtf (text/rtf) in CBT.V505.FILE773.PDS, moved to PDS/ISDARTF
+2023-08-06 07:00:10.984438 - Found ISDAUG.txt (text/plain) in CBT.V505.FILE773.PDS, moved to PDS/ISDAUG
+2023-08-06 07:00:10.985558 - Found TISDA.rexx (text/plain) in CBT.V505.FILE773.PDS, moved to PDS/TISDA
