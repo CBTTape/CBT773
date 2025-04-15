@@ -1,9 +1,9 @@
-2025-04-13 22:43:27.410953 - Received CBT.V508.FILE773.PDS from FILE773.XMI 
-2025-04-13 22:43:27.411753 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:43:27.411830 - Found ##README.txt (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/##README
-2025-04-13 22:43:27.411892 - Found @FILE773.txt (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/@FILE773
-2025-04-13 22:43:27.412032 - Found ISDA.rexx (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/ISDA
-2025-04-13 22:43:27.412274 - Found ISDADOC.doc (application/msword) in CBT.V508.FILE773.PDS, moved to docs/ISDADOC.doc
-2025-04-13 22:43:27.416252 - Found ISDARTF.rtf (text/rtf) in CBT.V508.FILE773.PDS, moved to PDS/ISDARTF
-2025-04-13 22:43:27.416373 - Found ISDAUG.txt (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/ISDAUG
-2025-04-13 22:43:27.416440 - Found TISDA.rexx (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/TISDA
+2025-04-15 05:29:22.942788 - Received CBT.V508.FILE773.PDS from FILE773.XMI 
+2025-04-15 05:29:22.944105 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:29:22.944442 - Found ##README.txt (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/##README
+2025-04-15 05:29:22.944629 - Found @FILE773.txt (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/@FILE773
+2025-04-15 05:29:22.945565 - Found ISDA.rexx (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/ISDA
+2025-04-15 05:29:22.946726 - Found ISDADOC.doc (application/msword) in CBT.V508.FILE773.PDS, moved to docs/ISDADOC.doc
+2025-04-15 05:29:22.965506 - Found ISDARTF.rtf (text/rtf) in CBT.V508.FILE773.PDS, moved to PDS/ISDARTF
+2025-04-15 05:29:22.968199 - Found ISDAUG.txt (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/ISDAUG
+2025-04-15 05:29:22.970494 - Found TISDA.rexx (text/plain) in CBT.V508.FILE773.PDS, moved to PDS/TISDA
